@@ -5,7 +5,11 @@ React web app to create various shapes, write text, and draw on HTML canvas.
 # Demo 
 
 
-https://github.com/user-attachments/assets/f3abda07-9aaf-4b6b-9227-3f203224e85b
+
+
+https://github.com/user-attachments/assets/bd683d6b-8967-42d7-8cb1-aba4916a7ef2
+
+
 
 
 
